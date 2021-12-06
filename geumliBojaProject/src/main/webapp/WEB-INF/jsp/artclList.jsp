@@ -10,7 +10,7 @@
 <head>
     <title>Traveler - Booking History</title>
  
-	<%@ include file="/WEB-INF/jsp/artclList.head.jsp" %>
+	<%@ include file="/WEB-INF/jsp/artclList.head.jsp" %> 
 	
 </head>
 
