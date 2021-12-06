@@ -477,6 +477,7 @@
 			<input type="hidden" id="savingType" name="savingType" value="">
 			<input type="hidden" id="bankType" name="bankType" value="">
 			<input type="hidden" id="saveMoney" name="saveMoney" value="">
+			
 		</form>
          <div class="container">
             <div class="row">
